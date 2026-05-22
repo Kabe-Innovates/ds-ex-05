@@ -1,4 +1,4 @@
-# EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
+# EXNO-5 DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
@@ -18,7 +18,9 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+![alt text](imgs/image.png)
+
+Refer : [Google Collab Notebook](https://colab.research.google.com/drive/1XnDOD4rxrY-dJRB_QGl2Nc4S5_lE8qw-?usp=sharing)
 
 # Result:
- Include your result here
+Data Visualization using Matplot library is implemented and executed successfully.
